@@ -3,11 +3,8 @@
 
 <h3 align="Center">Connect with me</h3>
 <p align="Center">
-<a href="https://twitter.com/3r3n_yldrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3r3n_yldrm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eren yıldırım" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren yıldırım" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/eren yıldırım" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eren yıldırım" height="30" width="40" /></a>
-<a href="https://fb.com/eren yildirim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="eren yildirim" height="30" width="40" /></a>
-<a href="https://instagram.com/3r3n_yldrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3r3n_yldrm" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/eren-y%C4%B1ld%C4%B1r%C4%B1m-43008326b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren yıldırım" height="30" width="40" /></a>
+<a href="[https://stackoverflow.com/users/eren yıldırım](https://stackoverflow.com/users/22146803/eren-y%c4%b1ld%c4%b1r%c4%b1m)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eren yıldırım" height="30" width="40" /></a>
 </p>
 
 <h3 align="Center">Languages and Tools</h3>
